@@ -1,2 +1,3 @@
 # git-github
-learning Git and GitHub
+learning Git and GitHub.
+I'm a beginner
